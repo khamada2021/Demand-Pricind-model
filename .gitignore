@@ -31,7 +31,7 @@ desktop.ini
 *.db
 
 # Data files
-*.csv
+
 *.tsv
 *.parquet
 *.pkl

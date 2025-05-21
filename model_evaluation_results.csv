@@ -1,0 +1,5 @@
+Model,MAE,R² Score
+Linear Regression (scaled),5.62,0.7512
+Decision Tree Regressor,2.32,0.9262
+Best Random Forest Regressor,1.58,0.973
+Gradient Boosting Regressor,1.12,0.987
